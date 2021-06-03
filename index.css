@@ -1,0 +1,57 @@
+body{
+    background-image: url(background1.jpg) ;
+    background-size: cover;
+}
+
+.img{
+    width: 12%;
+    height: auto;
+    float: right;
+    border: 1px solid black;
+    border-radius: 50%;
+}
+
+
+.header{
+   
+    background-color: rgba(245, 245, 245, 0.6);
+    border-radius: 5px;
+    overflow: auto;
+}
+.head li{
+    margin: 0;
+    font-size: x-large;
+    list-style-type: none;
+}
+
+.edu{
+     width: 40%;
+    
+
+}
+ li{
+    margin: 5px;
+    font-size: larger;
+}
+.date{
+    display: block;
+}
+h2{
+    margin-left: 3px;
+    font-weight: bold;
+}  
+    
+footer{
+    background-color: rgba(245, 245, 245, 0.6);
+    height: 100PX;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+   
+    margin-bottom: 10px;
+   
+}
+.footer{
+    margin: 10px;
+    
+}
